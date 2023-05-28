@@ -1,7 +1,7 @@
-Recomendo o uso do IntelliJ
-JDK 17+
-Maven 3+
-PostgreSQL(criar database: "jwt_petshop" na porta padrão do psql)
+#Recomendo o uso do IntelliJ
+*JDK 17+
+*Maven 3+
+*PostgreSQL(criar database: "jwt_petshop" na porta padrão do psql)
 
 
 Após importar a collection ao Postman, faça o post registration. Ela retorna o access token para acessar a api e a refresh
